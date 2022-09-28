@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957363563333",
+    "project_id": "crud-pet-app",
+    "storage_bucket": "crud-pet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957363563333:android:e0bcd4a058b7aab2ab6c2c",
+        "android_client_info": {
+          "package_name": "com.example.crud_pet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957363563333-osbmk0mo35m915mrmekm847u2grge61t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9RZYDx2818XeKp0weyykXJsJsk3NExOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957363563333-osbmk0mo35m915mrmekm847u2grge61t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
